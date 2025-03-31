@@ -14,10 +14,11 @@ Hello! I´m Stefano. My journey in tech started with a strong curiosity for how 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=stefanoppp&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=stefanoppp&icon=0&color=0)](https://visitcount.itsvg.in)
+
   ## 🌐 Socials:
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@stefano_peretti_) 
   ## 💰 Donations!
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/spstefanoperetti) 
+---
+[![](https://visitcount.itsvg.in/api?id=stefanoppp&icon=0&color=0)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
