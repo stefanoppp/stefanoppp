@@ -1,9 +1,9 @@
 # 💫 About me:
 Hello! I´m Stefano. My journey in tech started with a strong curiosity for how systems wor and how to make them better and more secure.  <br>🔐 Working in cybersecurity has given me a solid foundation in infrastructure, networking, and system hardening, but I'm also very interested in expanding into areas like DevOps, automation, and cloud technologies.  <br>⚙️ I enjoy learning, solving technical challenges, and being part of teams that build reliable and scalable solutions. Always looking to grow and explore new areas within tech.
 
-## 💻 Tech Stack
+## 💻 Tech stack
 
-### 🧠 Programming Languages
+### 🧠 Programming languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -12,7 +12,11 @@ Hello! I´m Stefano. My journey in tech started with a strong curiosity for how 
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
-### 🌐 Frontend Development
+### 🖥️ Operating systems
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 🌐 Frontend development
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -48,7 +52,6 @@ Hello! I´m Stefano. My journey in tech started with a strong curiosity for how 
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
@@ -56,11 +59,12 @@ Hello! I´m Stefano. My journey in tech started with a strong curiosity for how 
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-FFFFFF?&style=for-the-badge&logo=opentelemetry&logoColor=black)
 
-### 🤖 Machine Learning & Computer Vision
+### 🤖 Machine learning & Computer vision
+![PyCaret](https://img.shields.io/badge/PyCaret-0088cc?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
-### 🧰 Developer Tools
+### 🧰 Developer tools
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
@@ -76,7 +80,7 @@ Hello! I´m Stefano. My journey in tech started with a strong curiosity for how 
 ## 🏆 GitHub trophies
 ![](https://github-profile-trophy.vercel.app/?username=stefanoppp&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
+### 🔝 Top contributed repo
 ![](https://github-contributor-stats.vercel.app/api?username=stefanoppp&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
