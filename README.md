@@ -90,8 +90,6 @@ Hello! I´m Stefano. My journey in tech started with a strong curiosity for how 
 ### 🔝 Top contributed repo
 ![](https://github-contributor-stats.vercel.app/api?username=stefanoppp&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-  ## 💰 Donations:
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/spstefanoperetti) 
 ---
 [![](https://visitcount.itsvg.in/api?id=stefanoppp&icon=0&color=0)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
