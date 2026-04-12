@@ -77,11 +77,6 @@ Hello! I´m Stefano. My journey in tech started with a strong curiosity for how 
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
-# 📊 GitHub stats:
-![](https://github-readme-stats.vercel.app/api?username=stefanoppp&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=stefanoppp&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=stefanoppp&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ## 🏆 GitHub trophies
 ![](https://github-profile-trophy.vercel.app/?username=stefanoppp&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
