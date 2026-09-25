@@ -1,5 +1,5 @@
 # 🔍 About me:
-Hello! I´m Stefano. My journey in tech started with a strong curiosity for how systems wor and how to make them better and more secure.  <br>🔐 Working in cybersecurity has given me a foundation in infrastructure, networking, and system hardening, but I'm also very interested in expanding into areas like DevOps, automation, and cloud technologies.  <br>⚙️ I enjoy learning, solving technical challenges, and being part of teams that build reliable and scalable solutions. Always looking to grow and explore new areas within tech.
+Computer Engineer specialized in Python, with hands-on experience in machine learning and LLMs, from production predictive models to agentic systems with MCP, RAG and tool-calling. Strong backend foundation building production pipelines with FastAPI, Django and Celery task queues.
 
 ## 💻 Tech stack
 
